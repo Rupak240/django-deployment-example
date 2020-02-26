@@ -25,7 +25,7 @@ SECRET_KEY = '#y!1#rob#h686=u_g_4@cg5*)s+)cleawtt!^_&k*k(^x0#rh@'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['rupak240.pythonanywhere.com']
+ALLOWED_HOSTS = ['Rupak240.pythonanywhere.com']
 
 
 # Application definition
